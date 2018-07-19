@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
                 String email = email1.getText().toString();
                 String phone = phone1.getText().toString();
                 String password = password1.getText().toString();
-                URIBuilder builder = new URIBuilder("http://androidserver-androidserver.7e14.starter-us-west-2.openshiftapps.com");
+                URIBuilder builder = new URIBuilder("http://android-server-android-server.7e14.starter-us-west-2.openshiftapps.com");
                 builder.setParameter("choice", "1");
                 builder.setParameter("name", name);
                 builder.setParameter("username", username);
