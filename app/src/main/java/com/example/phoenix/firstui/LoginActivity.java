@@ -44,7 +44,7 @@ public class LoginActivity extends AppCompatActivity {
             try {
                 String username = username1.getText().toString();
                 String password = password1.getText().toString();
-                URIBuilder builder = new URIBuilder("http://androidserver-androidserver.7e14.starter-us-west-2.openshiftapps.com");
+                URIBuilder builder = new URIBuilder("http://android-server-android-server.7e14.starter-us-west-2.openshiftapps.com");
                 builder.setParameter("choice", "2");
                 builder.setParameter("username", username);
                 builder.setParameter("password", password);
