@@ -7,6 +7,6 @@ A simple app implementing `Registration` and `Login` of a user. The validation i
 ## Preview
 
 <p align="center">
-<img src="https://mittalhimanshu151.000webhostapp.com/Images/5.jpeg" width="280" height="500" hspace="50"/>
-<img src="https://mittalhimanshu151.000webhostapp.com/Images/6.jpeg" width="280" height="500" />
+<img src="https://mittalhimanshu151.000webhostapp.com/Images/FirstUI/5.jpeg" width="280" height="500" hspace="50"/>
+<img src="https://mittalhimanshu151.000webhostapp.com/Images/FirstUI/6.jpeg" width="280" height="500" />
 </p>
